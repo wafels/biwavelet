@@ -1,0 +1,6 @@
+.Rproj.user
+.Rhistory
+.RData
+src/*.so
+src/*.o
+README_cache
